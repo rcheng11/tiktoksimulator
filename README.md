@@ -1,2 +1,2 @@
 # tiktoksimulator
-Javascript Lesson
+Javascript Lesson Example Finished
